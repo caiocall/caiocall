@@ -1,0 +1,132 @@
+#nav-center-logo-menu-social .nav-bg {
+    background: linear-gradient(135deg, #111111, #000000);
+    background: -webkit-linear-gradient(315deg, #111111, #000000);
+}
+
+#header-slogan-text-btn .bg {
+	background-image: url('../images/bg-work-2.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.15;
+}
+
+#header-center-slogan .bg {
+	background-image: url('../images/bg-laptop-2.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.08;
+}
+
+.absolute-bottom-box{
+    position: absolute;
+    bottom: 0;
+    left:0;
+    right:0;
+    text-align: center;
+}
+
+.absolute-bottom-box .icon-size-l,
+.absolute-bottom-box .icon-size-xl{
+    display: inline-block;
+}#desc-text-img-3 {
+    background: #fff;
+}
+
+#desc-text-img-3 .bg {
+    background-image: url('../images/bg-caio.jpg');
+    background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-background-repeat: no-repeat;
+    background-position: top center;
+    opacity: 1;
+}
+
+
+
+@media (max-width: 768px) {
+    #desc-text-img-3 .bg {
+    background-image: none;
+    }
+}
+
+#action-text-btn-2--0 .bg {
+	background-image: url('../images/bg-laptop-3.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.12;
+}#desc-full-halfbg-text-btn {
+	background: #ffffff;
+}
+
+
+
+@media (max-width: 990px) {
+    .half-container-left, .half-container-right {
+        height: 740px;
+    }
+
+}
+
+#portfolio-1 .half-container-left {
+    background-image: url('../images/campinas-front-end.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+}
+
+#portfolio-2 .half-container-right {
+    background-image: url('../images/correio-popular-cover.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:1;
+}
+#portfolio-2 {
+    background: #000000;
+}
+
+#portfolio-3 .half-container-left {
+    background-image: url('../images/acqualimp-cover.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+}
+#portfolio-3 {
+	background: #0a40aa;
+}
+
+#portfolio-4 .half-container-right {
+    background-image: url('../images/boulders-cover.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:1;
+}
+
+#action-text-btn-2 .bg {
+	background-image: url('../images/bg-laptop-4.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.1;
+}
+#contact-center-form-2 {
+	background: #000000;
+}
+#footer-fluid-text-icon-social {
+	background: #000000;
+}
