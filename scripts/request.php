@@ -14,3 +14,5 @@ if($_POST['id'] === "contact-form-text-form") {
 	$subject = "E-mail enviado pelo site caiocall"; // Your e-mail address here.
 	mail($to, $subject, $body, $headers); // E-Mail subject here.
 }
+
+?>
